@@ -4,7 +4,7 @@
 --------------------------------------------
 O projeto é um sistema simples para gerenciar consultas médicas ou de serviços, utilizando TypeScript para garantir a segurança e a estrutura dos dados. O programa permite agendar, cancelar e listar consultas com base em seu status.
 
-## 🚀 Funcionalidades
+### 🚀 Funcionalidades
 - Agendar Consultas: Cria e adiciona novas consultas a uma lista, com informações como ID, paciente e data.
   
 - Cancelar Consultas: Marca uma consulta como cancelada, identificando-a pelo seu ID, e registra a data do cancelamento.
@@ -19,7 +19,7 @@ O projeto é um sistema simples para gerenciar consultas médicas ou de serviço
 --------------------------------------------
 O projeto é um sistema simples para gerenciar livros e empréstimos, utilizando TypeScript para garantir a segurança e a estrutura dos dados. O programa permite cadastrar, emprestar, devolver e listar livros disponíveis.
 
-## 🚀 Funcionalidades
+### 🚀 Funcionalidades
 - Cadastrar Livro: Adiciona novos livros ao acervo com informações como título, autor e status de empréstimo.
 
 - Emprestar Livro: Marca um livro como emprestado, alterando seu status e registrando a data do empréstimo.
@@ -34,7 +34,7 @@ O projeto é um sistema simples para gerenciar livros e empréstimos, utilizando
 --------------------------------------------
 O projeto é um sistema interativo para criar e gerenciar uma lista de tarefas (to-do list), utilizando TypeScript para garantir a segurança e a estrutura dos dados. O programa permite adicionar, concluir e listar tarefas com base em sua categoria e status.
 
-## 🚀 Funcionalidades
+### 🚀 Funcionalidades
 Adicionar Tarefa: Cria e adiciona novas tarefas à lista, com ID, descrição e categoria (opcional).
 
 - Concluir Tarefa: Marca uma tarefa como concluída, identificando-a pelo seu ID e registrando a data de conclusão.
